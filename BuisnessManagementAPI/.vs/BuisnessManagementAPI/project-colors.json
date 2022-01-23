@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6991eea3-778d-4fbb-970d-40bb3f0a8483": {
+      "ProjectGuid": "6991eea3-778d-4fbb-970d-40bb3f0a8483",
+      "DisplayName": "CustomerService",
+      "ColorIndex": 0
+    },
+    "f2368fb7-9e0a-420e-af73-dd1f9a950e85": {
+      "ProjectGuid": "f2368fb7-9e0a-420e-af73-dd1f9a950e85",
+      "DisplayName": "OrderService",
+      "ColorIndex": 1
+    },
+    "458a03b8-c6eb-46c7-bc62-60e727c61452": {
+      "ProjectGuid": "458a03b8-c6eb-46c7-bc62-60e727c61452",
+      "DisplayName": "CustomersService",
+      "ColorIndex": 2
+    },
+    "fe9f50df-f127-4a06-82a4-f4d0f661f6b8": {
+      "ProjectGuid": "fe9f50df-f127-4a06-82a4-f4d0f661f6b8",
+      "DisplayName": "APIGateway",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
